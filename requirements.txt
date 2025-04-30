@@ -1,0 +1,6 @@
+pydicom
+ezdxf
+numpy
+scikit-image
+scipy
+matplotlib
